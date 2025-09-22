@@ -1,0 +1,2 @@
+# MiniMusicDashboard
+Dashboard for music!
