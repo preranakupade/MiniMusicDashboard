@@ -1,4 +1,4 @@
-# LabelLift - Mini Music Distribution Dashboard
+# Mini Music Distribution Dashboard
 
 A modern music distribution dashboard built with Next.js that allows artists and labels to manage their music catalog with an intuitive interface.
 
@@ -156,11 +156,7 @@ The application includes a sophisticated theme system:
 3. **Route Protection**: Automatic redirection based on authentication state
 4. **Logout**: Clear session and redirect to login
 
-## 🎵 Sample Data
 
-The application comes with sample tracks:
-- **Sunrise Dreams** by Sejal Singh (Indie, Released)
-- **Midnight City** by Pragati Verma (Electronic, Uploaded)
 
 ## 🚀 Future Enhancements
 
